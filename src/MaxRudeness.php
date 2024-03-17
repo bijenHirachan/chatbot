@@ -1,6 +1,6 @@
 <?php
 
-namespace BijenHirachan\Chatbot;
+namespace Bijenhirachan\Chatbot;
 
 class MaxRudeness
 {
